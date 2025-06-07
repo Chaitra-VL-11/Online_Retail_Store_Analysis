@@ -105,4 +105,4 @@ This helped in shaping data-driven strategies for pricing, inventory planning, r
 
 ### Screenshot:
 ![Dashboard Preview](https://github.com/Chaitra-VL-11/Online_Retail_Store_Analysis/blob/main/Screenshot%20of%20the%20online%20retail%20dashboard.png)
-![Dashboard Preview](
+![Dashboard Preview](https://github.com/Chaitra-VL-11/Online_Retail_Store_Analysis/blob/main/Screenshot%20of%20the%20online%20retail%20dashboard%20(2).png)
