@@ -104,4 +104,5 @@ In this project, I combined Python for deep-dive exploratory analysis and Power 
 This helped in shaping data-driven strategies for pricing, inventory planning, regional marketing, and personalized communication.
 
 ### Screenshot:
+![Dashboard Preview](https://github.com/Chaitra-VL-11/Online_Retail_Store_Analysis/blob/main/Screenshot%20of%20the%20online%20retail%20dashboard.png)
 ![Dashboard Preview](
